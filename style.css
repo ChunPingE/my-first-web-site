@@ -25,6 +25,10 @@
   #grid ol{
     padding-left: 33px;
   }
+  #night_day{
+  grid-column: 1;
+  text-align: center;
+  }
   body{
     margin:0;
   }
